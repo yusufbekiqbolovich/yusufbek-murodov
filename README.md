@@ -6,9 +6,7 @@
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning:
-  - **Programming:** Python Django, Telebot, PostgreSQL, AI, ML, NLP
-
+- 🌱 I’m currently learning: **Python Django, Telebot, PostgreSQL, AI, ML, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yusufbek-murodov?tab=repositories](https://github.com/yusufbek-murodov?tab=repositories)
 
