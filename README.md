@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yusufbek Murodov</h1>
-<h3 align="center">Data Scientist from Uzbekistan</h3>
+<h3 align="center">Machine Learning Engineer from Uzbekistan</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufbek-murodov" alt="yusufbek-murodov" /></a> </p>
 
 <p align="left">  </p>
 
-- 🌱 I’m currently learning: **Python Django, Telebot, PostgreSQL, AI, ML, NLP**
-
 - 👨‍💻 All of my projects are available at [https://github.com/yusufbek-murodov?tab=repositories](https://github.com/yusufbek-murodov?tab=repositories)
-
-- 💬 Ask me about **Python Django, Aiogram**
 
 - 📫 How to reach me **yusufbekmurodov1210@gmail.com**
 
