@@ -20,8 +20,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yusufbek-murodov-b16103266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufbek murodov" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/murodovyusufbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yusufbek (kaggle profile)" height="30" width="40" /></a>
-</p>
-<p align="left">
 	<a href="https://t.me/yusufbekmurodov" rel="nofollow">
 	<img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Ibrokhim_Dev" height="40" width="40" />
 	</a>
