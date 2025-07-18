@@ -6,7 +6,7 @@
 
 <p align="left">  </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/yusufbek-murodov?tab=repositories](https://github.com/yusufbek-murodov?tab=repositories)
+## - 👨‍💻 All of my projects are available at [https://github.com/yusufbek-murodov?tab=repositories](https://github.com/yusufbek-murodov?tab=repositories)
 
 - 📫 How to reach me **yusufbekmurodov1210@gmail.com**
 
